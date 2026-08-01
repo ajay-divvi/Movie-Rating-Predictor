@@ -22,6 +22,6 @@ streamlit run app.py
 - 📈 Linear Regression
 - 🎯 Regression
 
-👨‍💻 Author
+👨‍💻 Developed by
 
 🌟 AJAY DIVVI 🌟
