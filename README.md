@@ -1,2 +1,27 @@
-# Movie-Rating-Predictor
-🎬 A Machine Learning project that predicts movie ratings using Linear Regression with Python, Pandas, Scikit-learn, and Streamlit.
+🎬 Movie Rating Prediction
+
+Predict movie ratings using **Machine Learning** based on genre, director, release year, duration, and votes.
+
+🛠️ Technologies
+
+- 🐍 Python
+- 🔢 NumPy
+- 🐼 Pandas
+- 🤖 Scikit-learn
+- 🌐 Streamlit
+
+🚀 Run
+
+```bash
+pip install numpy pandas scikit-learn streamlit
+streamlit run app.py
+```
+
+🧠 Model
+
+- 📈 Linear Regression
+- 🎯 Regression
+
+👨‍💻 Author
+
+🌟 AJAY DIVVI 🌟
