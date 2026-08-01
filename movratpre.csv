@@ -1,0 +1,169 @@
+Movie,Genre,Director,Year,Duration,Votes,Rating
+Inception,Sci-Fi,Nolan,2010,148,2500000,8.8
+The Dark Knight,Action,Nolan,2008,152,2800000,9.0
+Interstellar,Sci-Fi,Nolan,2014,169,2100000,8.7
+Avengers: Endgame,Action,Russo,2019,181,1200000,8.4
+Titanic,Romance,Cameron,1997,194,1300000,7.9
+Joker,Drama,Phillips,2019,122,1400000,8.4
+Parasite,Thriller,Bong,2019,132,950000,8.5
+The Godfather,Crime,Coppola,1972,175,1900000,9.2
+Forrest Gump,Drama,Zemeckis,1994,142,2200000,8.8
+The Shawshank Redemption,Drama,Darabont,1994,142,2900000,9.3
+Gladiator,Action,Scott,2000,155,1600000,8.5
+Avatar,Sci-Fi,Cameron,2009,162,1400000,7.9
+The Matrix,Sci-Fi,Wachowski,1999,136,2000000,8.7
+Dangal,Sport,Nitesh,2016,161,210000,8.3
+3 Idiots,Comedy,Hirani,2009,170,430000,8.4
+KGF: Chapter 2,Action,Neel,2022,168,180000,8.2
+RRR,Action,Rajamouli,2022,182,250000,7.9
+Baahubali 2,Action,Rajamouli,2017,167,120000,8.2
+Pushpa: The Rise,Action,Sukumar,2021,179,150000,7.6
+Drishyam,Thriller,Nishikant,2015,163,98000,8.3
+The Prestige,Drama,Nolan,2006,130,1400000,8.5
+Memento,Thriller,Nolan,2000,113,1300000,8.4
+Tenet,Sci-Fi,Nolan,2020,150,600000,7.4
+Oppenheimer,Drama,Nolan,2023,180,1200000,8.5
+The Batman,Action,Reeves,2022,176,800000,7.8
+Spider-Man: No Way Home,Action,Watts,2021,148,900000,8.2
+Doctor Strange,Action,Derrickson,2016,115,800000,7.5
+Black Panther,Action,Coogler,2018,134,850000,7.3
+Iron Man,Action,Favreau,2008,126,1100000,7.9
+Captain America: Civil War,Action,Russo,2016,147,850000,7.8
+Thor: Ragnarok,Action,Waititi,2017,130,750000,7.9
+The Lion King,Animation,Minkoff,1994,88,1100000,8.5
+Frozen,Animation,Buck,2013,102,700000,7.5
+Finding Nemo,Animation,Stanton,2003,100,1100000,8.2
+Toy Story,Animation,Lasseter,1995,81,1100000,8.3
+Up,Animation,Docter,2009,96,1100000,8.3
+Coco,Animation,Unkrich,2017,105,600000,8.4
+The Avengers,Action,Whedon,2012,143,1500000,8.0
+Logan,Action,Mangold,2017,137,850000,8.1
+Deadpool,Action,Miller,2016,108,1100000,8.0
+John Wick,Action,Stahelski,2014,101,800000,7.5
+Mad Max: Fury Road,Action,Miller,2015,120,1100000,8.1
+The Wolf of Wall Street,Comedy,Scorsese,2013,180,1600000,8.2
+The Social Network,Drama,Fincher,2010,120,800000,7.8
+Fight Club,Drama,Fincher,1999,139,2400000,8.8
+Se7en,Crime,Fincher,1995,127,1800000,8.6
+Gone Girl,Thriller,Fincher,2014,149,1100000,8.1
+Shutter Island,Thriller,Scorsese,2010,138,1500000,8.2
+The Departed,Crime,Scorsese,2006,151,1400000,8.5
+The Irishman,Crime,Scorsese,2019,209,450000,7.8
+Whiplash,Drama,Chazelle,2014,106,980000,8.5
+La La Land,Romance,Chazelle,2016,128,650000,8.0
+Dune,Sci-Fi,Villeneuve,2021,155,900000,8.1
+Dune: Part Two,Sci-Fi,Villeneuve,2024,166,700000,8.8
+Blade Runner 2049,Sci-Fi,Villeneuve,2017,164,750000,8.0
+Arrival,Sci-Fi,Villeneuve,2016,116,750000,7.9
+Prisoners,Thriller,Villeneuve,2013,153,850000,8.2
+Sicario,Crime,Villeneuve,2015,121,700000,7.7
+The Revenant,Drama,Iñárritu,2015,156,900000,8.0
+Birdman,Comedy,Iñárritu,2014,119,650000,7.7
+The Grand Budapest Hotel,Comedy,Anderson,2014,99,900000,8.1
+The French Dispatch,Comedy,Anderson,2021,108,250000,7.2
+Isle of Dogs,Animation,Anderson,2018,101,300000,7.8
+Fantastic Mr. Fox,Animation,Anderson,2009,87,300000,7.9
+The Truman Show,Drama,Weir,1998,103,1200000,8.2
+Cast Away,Drama,Zemeckis,2000,143,650000,7.8
+The Green Mile,Drama,Darabont,1999,189,1500000,8.6
+The Mist,Horror,Darabont,2007,126,350000,7.1
+No Country for Old Men,Crime,Coen,2007,122,1100000,8.2
+Fargo,Crime,Coen,1996,98,750000,8.1
+The Big Lebowski,Comedy,Coen,1998,117,900000,8.1
+Inside Out,Animation,Docter,2015,95,850000,8.2
+Soul,Animation,Docter,2020,100,400000,8.0
+Monsters Inc.,Animation,Docter,2001,92,980000,8.1
+Ratatouille,Animation,Bird,2007,111,900000,8.1
+The Incredibles,Animation,Bird,2004,115,850000,8.0
+Mission: Impossible,Action,De Palma,1996,110,500000,7.2
+Mission: Impossible Fallout,Action,McQuarrie,2018,147,700000,8.0
+Top Gun,Action,Scott,1986,110,400000,6.9
+Top Gun: Maverick,Action,Kosinski,2022,130,700000,8.3
+The Conjuring,Horror,Wan,2013,112,600000,7.5
+Insidious,Horror,Wan,2010,103,350000,6.8
+Saw,Horror,Wan,2004,103,450000,7.6
+Annabelle,Horror,Leonetti,2014,99,250000,5.5
+The Nun,Horror,Hardy,2018,96,220000,5.3
+It,Horror,Muschietti,2017,135,650000,7.3
+A Quiet Place,Horror,Krasinski,2018,90,600000,7.5
+Get Out,Horror,Peele,2017,104,700000,7.8
+Us,Horror,Peele,2019,116,350000,6.9
+Nope,Horror,Peele,2022,130,280000,7.0
+The Hangover,Comedy,Phillips,2009,100,850000,7.7
+Superbad,Comedy,Mottola,2007,113,650000,7.6
+Step Brothers,Comedy,McKay,2008,98,320000,6.9
+The Pursuit of Happyness,Drama,Muccino,2006,117,600000,8.0
+I Am Legend,Sci-Fi,Lawrence,2007,101,780000,7.2
+Edge of Tomorrow,Sci-Fi,Liman,2014,113,750000,7.9
+Oblivion,Sci-Fi,Kosinski,2013,124,550000,7.0
+Looper,Sci-Fi,Johnson,2012,119,650000,7.4
+Knives Out,Crime,Johnson,2019,130,800000,7.9
+Glass Onion,Crime,Johnson,2022,139,450000,7.1
+The Silence of the Lambs,Crime,Demme,1991,118,1600000,8.6
+The Sixth Sense,Thriller,Shyamalan,1999,107,1100000,8.2
+Unbreakable,Thriller,Shyamalan,2000,106,450000,7.3
+Split,Thriller,Shyamalan,2016,117,550000,7.3
+Glass,Thriller,Shyamalan,2019,129,300000,6.6
+The Prestige,Drama,Nolan,2006,130,1400000,8.5
+Insomnia,Thriller,Nolan,2002,118,350000,7.2
+Batman Begins,Action,Nolan,2005,140,1600000,8.2
+Dunkirk,War,Nolan,2017,106,750000,7.8
+The Hateful Eight,Crime,Tarantino,2015,168,700000,7.8
+Reservoir Dogs,Crime,Tarantino,1992,99,1100000,8.3
+Kill Bill: Vol. 1,Action,Tarantino,2003,111,1200000,8.2
+Kill Bill: Vol. 2,Action,Tarantino,2004,137,850000,8.0
+Inglourious Basterds,War,Tarantino,2009,153,1600000,8.3
+Once Upon a Time in Hollywood,Comedy,Tarantino,2019,161,850000,7.6
+Pulp Fiction,Crime,Tarantino,1994,154,2300000,8.9
+The Curious Case of Benjamin Button,Drama,Fincher,2008,166,700000,7.8
+Zodiac,Crime,Fincher,2007,157,650000,7.7
+The Game,Thriller,Fincher,1997,129,420000,7.7
+Alien,Science Fiction,Scott,1979,117,980000,8.5
+Prometheus,Science Fiction,Scott,2012,124,650000,7.0
+The Martian,Science Fiction,Scott,2015,144,900000,8.0
+Black Hawk Down,War,Scott,2001,144,420000,7.7
+Kingdom of Heaven,Action,Scott,2005,144,330000,7.3
+The Last Duel,Drama,Scott,2021,152,180000,7.4
+1917,War,Mendes,2019,119,700000,8.2
+Skyfall,Action,Mendes,2012,143,750000,7.8
+Spectre,Action,Mendes,2015,148,480000,6.8
+Casino Royale,Action,Campbell,2006,144,700000,8.0
+No Time to Die,Action,Fukunaga,2021,163,450000,7.3
+The Bourne Identity,Action,Liman,2002,119,600000,7.9
+The Bourne Supremacy,Action,Greengrass,2004,108,500000,7.7
+The Bourne Ultimatum,Action,Greengrass,2007,115,650000,8.0
+The Equalizer,Action,Fuqua,2014,132,420000,7.2
+Training Day,Crime,Fuqua,2001,122,470000,7.7
+The Book of Eli,Action,Hughes,2010,118,330000,6.8
+Drive,Crime,Refn,2011,100,720000,7.8
+Nightcrawler,Crime,Gilroy,2014,117,620000,7.8
+Baby Driver,Action,Wright,2017,113,600000,7.6
+Scott Pilgrim vs. the World,Comedy,Wright,2010,112,480000,7.5
+Hot Fuzz,Comedy,Wright,2007,121,550000,7.8
+Shaun of the Dead,Comedy,Wright,2004,99,600000,7.9
+Her,Romance,Jonze,2013,126,700000,8.0
+Ex Machina,Science Fiction,Garland,2014,108,650000,7.7
+Annihilation,Science Fiction,Garland,2018,115,420000,6.8
+The Imitation Game,Drama,Tyldum,2014,114,850000,8.0
+The Theory of Everything,Drama,Marsh,2014,123,500000,7.7
+Argo,Drama,Affleck,2012,120,650000,7.7
+The King's Speech,Drama,Hooper,2010,118,700000,8.0
+Slumdog Millionaire,Drama,Boyle,2008,120,900000,8.0
+The Notebook,Romance,Cassavetes,2004,123,620000,7.8
+A Beautiful Mind,Drama,Howard,2001,135,980000,8.2
+Good Will Hunting,Drama,Van Sant,1997,126,1100000,8.3
+The Pianist,Drama,Polanski,2002,150,920000,8.5
+Life of Pi,Adventure,Lee,2012,127,700000,7.9
+The Terminal,Comedy,Spielberg,2004,128,520000,7.4
+Catch Me If You Can,Crime,Spielberg,2002,141,1100000,8.1
+Saving Private Ryan,War,Spielberg,1998,169,1500000,8.6
+Schindler's List,Drama,Spielberg,1993,195,1500000,9.0
+Jurassic Park,Adventure,Spielberg,1993,127,1100000,8.2
+The Hunger Games,Action,Ross,2012,142,980000,7.2
+The Maze Runner,Action,Ball,2014,113,520000,6.8
+Ready Player One,Sci-Fi,Spielberg,2018,140,480000,7.4
+The Greatest Showman,Musical,Gracey,2017,105,320000,7.6
+The Fault in Our Stars,Romance,Boone,2014,126,420000,7.7
+The Devil Wears Prada,Comedy,Frankel,2006,109,480000,6.9
+Mean Girls,Comedy,Waters,2004,97,430000,7.1
+The Blind Side,Drama,Hancock,2009,129,350000,7.6
